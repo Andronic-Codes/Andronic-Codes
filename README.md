@@ -13,7 +13,7 @@ data analysis, and business automation.
 
 ### 🚀 Currently Working On
 
-Python automation · SQL & databases · Data analysis · Business digitalisation
+Developing a Python application to **digitalise material ordering and delivery processes** for a refurbishment company, with a focus on automation, order management, and reducing missing-item issues.
 
 ### 💼 Open to Work
 
