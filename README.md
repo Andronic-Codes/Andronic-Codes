@@ -21,8 +21,8 @@ Graduate & junior roles in **Python · Data · SQL · Automation · Software Dev
 
 ### 📫 Contact
 
-**Email:** your.email@example.com  
-**LinkedIn:** Your LinkedIn
+**Email:** vali.antonio.andronic@gmail.com  
+**LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/vali-antonio-andronic-231606296/)
 
 ---
 
