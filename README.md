@@ -1,4 +1,4 @@
-# 👋 Antonio Andronic
+## 👋 Antonio Andronic
 
 **First-Class BSc (Hons) Computing Graduate**
 
