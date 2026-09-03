@@ -1,43 +1,27 @@
-# 👋 Hi, I'm Antonio Andronic
+# 👋 Antonio Andronic
 
-### 🎓 First-Class BSc (Hons) Computing Graduate
+**First-Class BSc (Hons) Computing Graduate**
 
-> **Python • SQL • Data • Automation**
+`Python` · `SQL` · `Data Analysis` · `Automation`
 
-I'm a Computing graduate interested in building practical software solutions, data analysis, and business automation.
+I'm a Computing graduate interested in building practical software solutions,
+data analysis, and business automation.
 
-## 🛠️ Skills
+### 🛠️ Skills
 
-- Python
-- SQL
-- Pandas
-- NumPy
-- SQLite
-- Excel
-- Git & GitHub
-- HTML & CSS
+`Python` `SQL` `Pandas` `NumPy` `SQLite` `Excel` `Git` `GitHub`
 
-## 🚀 Currently Working On
+### 🚀 Currently Working On
 
-- Python automation projects
-- SQL & database projects
-- Data analysis and visualisation
-- Real-world business digitalisation projects
+Python automation · SQL & databases · Data analysis · Business digitalisation
 
-## 💼 Open to Work
+### 💼 Open to Work
 
-Looking for **graduate and junior opportunities** in:
+Graduate & junior roles in **Python · Data · SQL · Automation · Software Development**
 
-- Python Development
-- Data Analysis
-- SQL / Database Development
-- Automation
-- Software Development
+### 📫 Contact
 
-## 📫 Contact
-
-**Email:** your.email@example.com
-
+**Email:** your.email@example.com  
 **LinkedIn:** Your LinkedIn
 
 ---
